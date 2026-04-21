@@ -17,7 +17,7 @@ public class PrashadiPeshala {
     String university  = "SLIIT — BSc (Hons) Information Technology";
     String year        = "4th Year Undergraduate";
  
-    String[] workingOn  = { "Test" };
+    String[] workingOn  = { "Software Engineering" };
     String[] learning   = { "Java" };
     String[] collab     = { "Test" };
     String[] askMeAbout = { "Java", "React", "MERN Stack", "Full-Stack Dev" };
