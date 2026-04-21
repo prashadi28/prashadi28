@@ -11,22 +11,20 @@
 
 ## 🙋‍♀️ About Me
 
-```json
-{
-  name        : Prashadi Peshala
-  nickname    : Peshu
-  location    : Sri Lanka 🇱🇰
-  university  : SLIIT — BSc (Hons) Information Technology
-  year        : 4th Year Undergraduate"
-  role        : Full Stack Developer
-  workingOn   : Software Engineering
-  learning    : Java Spring Boot
-  collab      : Open Source Projects
-  askMeAbout  : Java, React, MERN Stack,Full-Stack Dev
-  email       : prashadipeshala32@gmail.com
-  funFact     : ⚡ Call me Peshu!
-}
-```
+<table>
+  <tr><td><b>👤 Name</b></td><td>Prashadi Peshala</td></tr>
+  <tr><td><b>🏷️ Nickname</b></td><td>Peshu</td></tr>
+  <tr><td><b>📍 Location</b></td><td>Sri Lanka 🇱🇰</td></tr>
+  <tr><td><b>🎓 University</b></td><td>SLIIT — BSc (Hons) Information Technology</td></tr>
+  <tr><td><b>📅 Year</b></td><td>4th Year Undergraduate</td></tr>
+  <tr><td><b>💼 Role</b></td><td>Full Stack Developer</td></tr>
+  <tr><td><b>🔭 Working On</b></td><td>Software Engineering</td></tr>
+  <tr><td><b>🌱 Learning</b></td><td>Java · Spring Boot</td></tr>
+  <tr><td><b>👯 Collab</b></td><td>Open Source Projects</td></tr>
+  <tr><td><b>💬 Ask Me About</b></td><td>Java · React · MERN Stack · Full-Stack Dev</td></tr>
+  <tr><td><b>📫 Email</b></td><td>prashadipeshala32@gmail.com</td></tr>
+  <tr><td><b>⚡ Fun Fact</b></td><td>Call me Peshu!</td></tr>
+</table>
 
 ---
 
