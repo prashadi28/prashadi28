@@ -19,10 +19,10 @@
   "university" : "SLIIT — BSc (Hons) Information Technology",
   "year"       : "4th Year Undergraduate",
   "role"       : "Full Stack Developer",
-  "workingOn"  : ["Software Engineering"],
-  "learning"   : ["Java", "Spring Boot"],
-  "collab"     : ["Open Source Projects"],
-  "askMeAbout" : ["Java", "React", "MERN Stack", "Full-Stack Dev"],
+  "workingOn"  : "Software Engineering",
+  "learning"   : "Java", "Spring Boot",
+  "collab"     : "Open Source Projects",
+  "askMeAbout" : "Java", "React", "MERN Stack", "Full-Stack Dev",
   "email"      : "prashadipeshala32@gmail.com",
   "funFact"    : "⚡ Call me Peshu!"
 }
