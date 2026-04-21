@@ -11,20 +11,20 @@
 
 ## 🙋‍♀️ About Me
 
-<table>
-  <tr><td><b>👤 Name</b></td><td>Prashadi Peshala</td></tr>
-  <tr><td><b>🏷️ Nickname</b></td><td>Peshu</td></tr>
-  <tr><td><b>📍 Location</b></td><td>Sri Lanka 🇱🇰</td></tr>
-  <tr><td><b>🎓 University</b></td><td>SLIIT — BSc (Hons) Information Technology</td></tr>
-  <tr><td><b>📅 Year</b></td><td>4th Year Undergraduate</td></tr>
-  <tr><td><b>💼 Role</b></td><td>Full Stack Developer</td></tr>
-  <tr><td><b>🔭 Working On</b></td><td>Software Engineering</td></tr>
-  <tr><td><b>🌱 Learning</b></td><td>Java · Spring Boot</td></tr>
-  <tr><td><b>👯 Collab</b></td><td>Open Source Projects</td></tr>
-  <tr><td><b>💬 Ask Me About</b></td><td>Java · React · MERN Stack · Full-Stack Dev</td></tr>
-  <tr><td><b>📫 Email</b></td><td>prashadipeshala32@gmail.com</td></tr>
-  <tr><td><b>⚡ Fun Fact</b></td><td>Call me Peshu!</td></tr>
-</table>
+<pre>
+👤  Name         :  Prashadi Peshala
+🏷️  Nickname     :  Peshu
+📍  Location     :  Sri Lanka 🇱🇰
+🎓  University   :  SLIIT — BSc (Hons) Information Technology
+📅  Year         :  4th Year Undergraduate
+💼  Role         :  Full Stack Developer
+🔭  Working On   :  Software Engineering
+🌱  Learning     :  Java · Spring Boot
+👯  Collab       :  Open Source Projects
+💬  Ask Me About :  Java · React · MERN Stack · Full-Stack Dev
+📫  Email        :  prashadipeshala32@gmail.com
+⚡  Fun Fact     :  Call me Peshu!
+</pre>
 
 ---
 
