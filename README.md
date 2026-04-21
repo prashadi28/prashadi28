@@ -11,21 +11,20 @@
 
 ## 🙋‍♀️ About Me
 
-```java
-public class PrashadiPeshala {
-    String name        = "Prashadi Peshala";
-    String nickname    = "Peshu";
-    String location    = "Sri Lanka 🇱🇰";
-    String university  = "SLIIT — BSc (Hons) Information Technology";
-    String year        = "4th Year Undergraduate";
-    String role        = "Full Stack Developer";
-
-    String[] workingOn  = { "Software Engineering" };
-    String[] learning   = { "Java", "Spring Boot" };
-    String[] collab     = { "Open Source Projects" };
-    String[] askMeAbout = { "Java", "React", "MERN Stack", "Full-Stack Dev" };
-    String   email      = "prashadipeshala32@gmail.com";
-    String   funFact    = "⚡ Call me Peshu!";
+```json
+{
+  "name"       : "Prashadi Peshala",
+  "nickname"   : "Peshu",
+  "location"   : "Sri Lanka 🇱🇰",
+  "university" : "SLIIT — BSc (Hons) Information Technology",
+  "year"       : "4th Year Undergraduate",
+  "role"       : "Full Stack Developer",
+  "workingOn"  : ["Software Engineering"],
+  "learning"   : ["Java", "Spring Boot"],
+  "collab"     : ["Open Source Projects"],
+  "askMeAbout" : ["Java", "React", "MERN Stack", "Full-Stack Dev"],
+  "email"      : "prashadipeshala32@gmail.com",
+  "funFact"    : "⚡ Call me Peshu!"
 }
 ```
 
